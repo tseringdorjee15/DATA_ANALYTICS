@@ -6,6 +6,7 @@
 
 ## 📷 Tableau Dashboard Preview
 
-[![Tableau Dashboard Preview](Tableau%20dashboard.png)](https://tableau.com)
+<img width="1152" height="656" alt="Tableau dashboard" src="https://github.com/user-attachments/assets/85151184-3073-42b6-b72a-781c67515077" />
+(https://tableau.com)
 
 *Click the image above to open the live interactive dashboard on Tableau Public.*
