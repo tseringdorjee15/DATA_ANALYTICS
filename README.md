@@ -37,7 +37,8 @@ An exploratory data analysis (EDA) project tracking historical stock performance
 
 ## 💻 Technical Skills Demonstrated in This Repo
 *   **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+*   **Data Management:** Database Normalization, Data Cleansing, Imputation Pipelines
 *   **Bi/Visualization:** Tableau Public, Interactive Dashboard Design, Data Storytelling
 *   **Machine Learning:** Linear Regression, Logistic Regression, Feature Scaling, Model Evaluation
-*   **Data Management:** Database Normalization, Data Cleansing, Imputation Pipelines
+*   
 
