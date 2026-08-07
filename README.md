@@ -6,10 +6,10 @@ Welcome to my comprehensive data analytics and machine learning repository, feat
 
 ## 📊 1. Tableau Capstone: Regional Capacity & Volume Analysis
 Designed streamlined, zero-noise interactive dashboards utilizing large-scale regional capacity data to isolate facilities exceeding 1,500 annual visits per station.
-*   **Key Achievement:** Earned a top-tier **95/100 score** for precise visual data storytelling and executive-ready layouts.
+*   **Key Achievement:** Delivered precise visual data storytelling through executive-ready layouts. 
 *   **Methodology:** Filtered out data noise, engineered geospatial maps, and built interactive scatter plots to optimize strategic resource allocation.
-*   **🔗 [Click Here to View Live Interactive Dashboard on Tableau Public](https://tableau.com)** *(Note: Replace this link with your actual Tableau Public URL)*
-
+*   **🔗 [Click Here to View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/tsering.dorjee6855/viz/TableauCapstoneProject-TseringDorjee/Dashboard)**
+  
 ---
 
 ## 🐍 2. Python Capstone: Operational Metrics Burden & Forecasting Model
